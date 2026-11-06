@@ -1,0 +1,22 @@
+{
+  "wheel_id": 772,
+  "structure": "umbrella",
+  "slug": "homeloanbrokersunshinecoast-111",
+  "project": "mortgage-broker-sunshine-coast-suburb-guide-7e619e9c9dcac3e69b9",
+  "parent_t1_ref": "homeloanbrokersunshinecoast-155",
+  "node_role": "feeder",
+  "money_target": "homeloanbrokersunshinecoast.com.au",
+  "primary_kw": "mortgage broker sunshine coast suburb guide",
+  "intended_url": "https://aumedia.neocities.org/mortgage-broker-sunshine-coast-suburb-guide-7e619e9c9dcac3e69b9/",
+  "tier": "T2",
+  "writeback_nonce": "5120148aa3b70de3",
+  "links": [
+    {
+      "target_url": "http://mortgage-broker-sunshine-coast-0af7265fe66c9ed341662aaa501dbeff.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "Mortgage Broker Sunshine Coast: A Practical Borrower Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
